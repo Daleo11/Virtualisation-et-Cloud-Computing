@@ -23,3 +23,10 @@
 
 2. L'image Docker sert à déployer le conteneur Docker.
 
+## Etape 4
+
+1. C'est plus pratique lorsqu'il y a plusieurs conteneurs. (rapidité de lancement, non omission d'étapes)
+
+2. Il decrit toutes les étapes de lancement des conteneurs
+
+3. Docker compose pourrait atteindre ses limites dans le cas où il y aurait énormement de conteneurs à lancer.
