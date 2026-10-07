@@ -15,3 +15,11 @@
 2. Il n'y a pas d'OS dans un conteneur. On peut mettre des conteneurs dans des VM et pas l'inverse.
 
 3. Parce que les conteneurs contiennet tout ce dont l'application a besoin pour fonctionner. 
+
+
+## Etape 3
+
+1. Reproductible, facile à corriger et plus rapide
+
+2. L'image Docker sert à déployer le conteneur Docker.
+
