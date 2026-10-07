@@ -7,3 +7,11 @@
     - Isolation et sécurité
 
 3. La principale différence entre travailler dans une machine virtuelle et une machine physique c'est que cette dernière possède un materiel physique. Le temps d'accès aux ressources prends plus de temps pour une machine virtuelle puisqu'elle doivent traverser toutes les différentes couches avant d'arriver à la VM.
+
+## Etape 2
+
+1. Un conteneur est un espace isolé dans une machine contenant une application et ses dépendances.
+
+2. Il n'y a pas d'OS dans un conteneur. On peut mettre des conteneurs dans des VM et pas l'inverse.
+
+3. Parce que les conteneurs contiennet tout ce dont l'application a besoin pour fonctionner. 
